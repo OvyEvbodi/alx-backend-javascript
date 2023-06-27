@@ -1,5 +1,4 @@
 // wait for a promise
-
 import { uploadPhoto, createUser } from './utils.js';
 
 const handleProfileSignup = () => {
